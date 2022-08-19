@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+
+# Use matplotlib widget mode
+ipython
+ipykernel
+ipympl
+
+wave
